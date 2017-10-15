@@ -1,4 +1,4 @@
-module Framxork ANgularJs , faire le tuto de Angular.io Hereos.
+module Framwork ANgularJs , faire le tuto de Angular.io Hereos.
 
 
 
